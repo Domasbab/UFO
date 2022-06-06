@@ -1,0 +1,88 @@
+
+
+
+.headeris {   
+width: 100%;
+padding-top: 5px;
+align-items: center;
+background-color: red;
+
+
+}
+
+.headeris img {
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 60px;
+}
+
+.headerdivas {
+    width: 15%;
+    float: right;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    padding-top: 6px;  
+}
+
+
+.mainas {  
+width: 100%;
+background-color: green;
+
+
+}
+
+.hvienas {
+text-align: center;
+}
+.mainas p {
+    text-align: center;
+}
+
+.mainas button {
+    margin-left: 600px;
+   padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 80px;
+    
+    
+}
+
+.nuotrauka {
+    float: right;
+}
+
+
+.mainodivas {
+background-color: rgb(255, 255, 255);
+width: 100%;
+
+
+}
+
+
+
+.footeris {
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+}
+
+.footeriodivas {
+    /* width: 50%; */
+    background-color: rgb(255, 255, 255) ;
+    /* display: flex;
+    justify-content: flex-end;
+    gap: 10px; */
+    margin-left: 25px;
+align-self: flex-end;
+background-color: red;
+
+
+    
+
+}
